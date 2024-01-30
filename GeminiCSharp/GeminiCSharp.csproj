@@ -10,21 +10,28 @@
 			Library for using Google Bard AI through the Gemini API. Learn more on GitHub.
 		</Description>
 		<PackageProjectUrl>https://github.com/igorbock/GeminiCSharp</PackageProjectUrl>
-		<PackageIcon></PackageIcon>
+		<PackageIcon>Resources\icon.png</PackageIcon>
 		<PackageTags>gemini, library, csharp, ia, google</PackageTags>
 		<RepositoryUrl>https://github.com/igorbock/GeminiCSharp</RepositoryUrl>
 		<EnablePackageValidation>true</EnablePackageValidation>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 		<NoWarn>$(NoWarn);CS1591</NoWarn>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
 	</PropertyGroup>
 
 	<ItemGroup>
 		<PackageReference Include="DotNet.ReproducibleBuilds" Version="1.1.1">
-		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-		  <PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+			<PrivateAssets>all</PrivateAssets>
 		</PackageReference>
 		<PackageReference Include="System.Text.Json" Version="8.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Resources\" />
+		<None Include="Resources\icon.png" Pack="true" PackagePath=""/>
+		<None Include="README.md" Pack="true" PackagePath=""/>
 	</ItemGroup>
 
 </Project>
