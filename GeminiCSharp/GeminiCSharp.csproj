@@ -10,7 +10,7 @@
 			Library for using Google Bard AI through the Gemini API. Learn more on GitHub.
 		</Description>
 		<PackageProjectUrl>https://github.com/igorbock/GeminiCSharp</PackageProjectUrl>
-		<PackageIcon>Resources\icon.png</PackageIcon>
+		<PackageIcon>icon.png</PackageIcon>
 		<PackageTags>gemini, library, csharp, ia, google</PackageTags>
 		<RepositoryUrl>https://github.com/igorbock/GeminiCSharp</RepositoryUrl>
 		<EnablePackageValidation>true</EnablePackageValidation>
