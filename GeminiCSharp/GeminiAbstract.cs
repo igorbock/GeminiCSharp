@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Linq;
 using GeminiCSharp.Interfaces;
 using GeminiCSharp.Helpers;
+using System.Collections.Generic;
 
 namespace GeminiCSharp
 {
@@ -47,6 +48,18 @@ namespace GeminiCSharp
                 var response = await httpClient.PostAsync(url, content);
                 return await _httpResponse.GetResponseFromTypeTAsync(response);
             }
+        }
+
+        public virtual Content CreateContent(string text)
+        {
+            return new Content
+            {
+                Role = "user",
+                Parts = new List<object>
+                {
+                    new Part{ Text = text }
+                }
+            };
         }
     }
 }
