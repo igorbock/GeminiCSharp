@@ -13,11 +13,15 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeminiCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Biblioteca para uso da IA Google Bard através da API Gemini. Saiba mais no GitHub" +
+    ".\r\n\r\nLibrary for using Google Bard AI through the Gemini API. Learn more on GitH" +
+    "ub.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db6d306a52abdfd9d23d4db35aa72659dcf8b45e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeminiCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeminiCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/igorbock/GeminiCSharp")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 

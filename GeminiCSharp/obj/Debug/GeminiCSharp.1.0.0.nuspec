@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GeminiCSharp</id>
+    <version>1.0.0</version>
+    <title>Gemini.C#</title>
+    <authors>GeminiCSharp</authors>
+    <icon>nuget.png</icon>
+    <projectUrl>https://github.com/igorbock/GeminiCSharp</projectUrl>
+    <description>Biblioteca para uso da IA Google Bard através da API Gemini. Saiba mais no GitHub.
+
+Library for using Google Bard AI through the Gemini API. Learn more on GitHub.</description>
+    <repository type="git" url="https://github.com/igorbock/GeminiCSharp" commit="db6d306a52abdfd9d23d4db35aa72659dcf8b45e" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Text.Json" version="8.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projetos\GeminiCSharp\GeminiCSharp\bin\Debug\netstandard2.0\GeminiCSharp.dll" target="lib\netstandard2.0\GeminiCSharp.dll" />
+    <file src="C:\Users\igorb\Downloads\nuget.png" target="\nuget.png" />
+  </files>
+</package>

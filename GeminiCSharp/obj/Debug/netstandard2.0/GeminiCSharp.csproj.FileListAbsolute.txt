@@ -8,3 +8,4 @@ D:\Projetos\GeminiCSharp\GeminiCSharp\bin\Debug\netstandard2.0\GeminiCSharp.dll
 D:\Projetos\GeminiCSharp\GeminiCSharp\bin\Debug\netstandard2.0\GeminiCSharp.pdb
 D:\Projetos\GeminiCSharp\GeminiCSharp\obj\Debug\netstandard2.0\GeminiCSharp.dll
 D:\Projetos\GeminiCSharp\GeminiCSharp\obj\Debug\netstandard2.0\GeminiCSharp.pdb
+D:\Projetos\GeminiCSharp\GeminiCSharp\obj\Debug\netstandard2.0\GeminiCSharp.sourcelink.json
