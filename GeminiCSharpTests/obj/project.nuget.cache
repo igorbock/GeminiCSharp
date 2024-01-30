@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jVG593FmcD+eoCbK0njZtbzJcRRutcPG82Ilwagh/p41KEN/6HwiZGcLh5o+O15YAC4NQWYV3Sc/pHOv99nBNg==",
+  "dgSpecHash": "Zalxw5wwn9Rz45cWKcsis5i54XKnrUDscVYszfCHbU7RO2FLc9VDgfpkoQmVASsDfx6iNIuyfKqj97KmvnnbVw==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\GeminiCSharp\\GeminiCSharpTests\\GeminiCSharpTests.csproj",
   "expectedPackageFiles": [
@@ -21,8 +21,7 @@
     "C:\\Users\\igorb\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\igorb\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
     "C:\\Users\\igorb\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\igorb\\.nuget\\packages\\system.text.json\\8.0.1\\system.text.json.8.0.1.nupkg.sha512",
-    "C:\\Users\\igorb\\.nuget\\packages\\geminicsharp\\1.0.0\\geminicsharp.1.0.0.nupkg.sha512"
+    "C:\\Users\\igorb\\.nuget\\packages\\system.text.json\\8.0.1\\system.text.json.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }
