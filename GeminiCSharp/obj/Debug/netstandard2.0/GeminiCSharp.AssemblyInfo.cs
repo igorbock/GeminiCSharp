@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("GeminiCSharp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Igor Bock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("\r\n\t\t\tBiblioteca para uso da IA Google Bard através da API Gemini. Saiba mais no G" +
     "itHub.\r\n\r\n\t\t\tLibrary for using Google Bard AI through the Gemini API. Learn more" +
