@@ -1,18 +1,21 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-    <Title>Gemini.C#</Title>
-    <Description>Biblioteca para uso da IA Google Bard através da API Gemini. Saiba mais no GitHub.
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<Title>Gemini.C#</Title>
+		<Description>
+			Biblioteca para uso da IA Google Bard através da API Gemini. Saiba mais no GitHub.
 
-Library for using Google Bard AI through the Gemini API. Learn more on GitHub.</Description>
-    <PackageProjectUrl>https://github.com/igorbock/GeminiCSharp</PackageProjectUrl>
-    <PackageIcon></PackageIcon>
-    <RepositoryUrl>https://github.com/igorbock/GeminiCSharp</RepositoryUrl>
-  </PropertyGroup>
+			Library for using Google Bard AI through the Gemini API. Learn more on GitHub.
+		</Description>
+		<PackageProjectUrl>https://github.com/igorbock/GeminiCSharp</PackageProjectUrl>
+		<PackageIcon></PackageIcon>
+		<RepositoryUrl>https://github.com/igorbock/GeminiCSharp</RepositoryUrl>
+		<EnablePackageValidation>true</EnablePackageValidation>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="System.Text.Json" Version="8.0.1" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="System.Text.Json" Version="8.0.1" />
+	</ItemGroup>
 
 </Project>
