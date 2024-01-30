@@ -7,6 +7,11 @@ namespace GeminiCSharp.Models
     {
         public GeminiPro() { }
 
+        public GeminiPro(List<Content> contents)
+        {
+            Contents = contents;
+        }
+
         public GeminiPro(string text, string role)
         {
             Contents = new List<Content>

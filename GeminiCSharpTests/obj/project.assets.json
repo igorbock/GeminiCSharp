@@ -481,7 +481,7 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
-      "GeminiCSharp/1.0.1": {
+      "GeminiCSharp/1.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1271,7 +1271,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "GeminiCSharp/1.0.1": {
+    "GeminiCSharp/1.0.2": {
       "type": "project",
       "path": "../GeminiCSharp/GeminiCSharp.csproj",
       "msbuildProject": "../GeminiCSharp/GeminiCSharp.csproj"
@@ -1279,7 +1279,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "GeminiCSharp >= 1.0.1",
+      "GeminiCSharp >= 1.0.2",
       "Microsoft.NET.Test.Sdk >= 17.6.0",
       "Moq >= 4.20.70",
       "NUnit >= 3.13.3",
