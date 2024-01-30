@@ -1,0 +1,10 @@
+D:\Projetos\GeminiCSharp\GeminiCSharp\obj\Debug\netstandard2.0\GeminiCSharp.csproj.AssemblyReference.cache
+D:\Projetos\GeminiCSharp\GeminiCSharp\obj\Debug\netstandard2.0\GeminiCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GeminiCSharp\GeminiCSharp\obj\Debug\netstandard2.0\GeminiCSharp.AssemblyInfoInputs.cache
+D:\Projetos\GeminiCSharp\GeminiCSharp\obj\Debug\netstandard2.0\GeminiCSharp.AssemblyInfo.cs
+D:\Projetos\GeminiCSharp\GeminiCSharp\obj\Debug\netstandard2.0\GeminiCSharp.csproj.CoreCompileInputs.cache
+D:\Projetos\GeminiCSharp\GeminiCSharp\bin\Debug\netstandard2.0\GeminiCSharp.deps.json
+D:\Projetos\GeminiCSharp\GeminiCSharp\bin\Debug\netstandard2.0\GeminiCSharp.dll
+D:\Projetos\GeminiCSharp\GeminiCSharp\bin\Debug\netstandard2.0\GeminiCSharp.pdb
+D:\Projetos\GeminiCSharp\GeminiCSharp\obj\Debug\netstandard2.0\GeminiCSharp.dll
+D:\Projetos\GeminiCSharp\GeminiCSharp\obj\Debug\netstandard2.0\GeminiCSharp.pdb
