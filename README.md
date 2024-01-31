@@ -12,8 +12,8 @@ using GeminiCSharp;
 
 var menu = "Faça sua pergunta para o Bard: \n\n'[X]' - Sair\n'[L]' - Limpar / Nova conversa\n\n";
 Console.WriteLine(menu);
-var nugetKey = ConfigurationManager.AppSettings["NUGET_KEY"];
-var geminiChat = new GeminiChat(nugetKey);
+var apiKey = ConfigurationManager.AppSettings["API_KEY"];
+var geminiChat = new GeminiChat(apiKey);
 
 var text = string.Empty;
 while (text != "[X]")
@@ -50,8 +50,8 @@ using GeminiCSharp;
 
 var menu = "Faça sua pergunta para o Bard: \n\n'[X]' - Sair\n'[L]' - Limpar / Nova conversa\n\n";
 Console.WriteLine(menu);
-var nugetKey = ConfigurationManager.AppSettings["NUGET_KEY"];
-var geminiChat = new GeminiChat(nugetKey);
+var apiKey = ConfigurationManager.AppSettings["API_KEY"];
+var geminiChat = new GeminiChat(apiKey);
 
 var text = string.Empty;
 while (text != "[X]")
