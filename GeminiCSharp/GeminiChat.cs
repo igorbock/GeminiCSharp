@@ -50,7 +50,7 @@ namespace GeminiCSharp
                 if (isGeminiProVision)
                     request.Contents[0].Role = null;
 
-                var json = JsonSerializer.Serialize(message);
+                var json = JsonSerializer.Serialize(request);
                 var content = new StringContent(json, Encoding.UTF8, "application/json");
 
                 var response = await httpClient.PostAsync(url, content);
