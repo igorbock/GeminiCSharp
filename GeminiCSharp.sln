@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeminiCSharp", "GeminiCShar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeminiCSharpTests", "GeminiCSharpTests\GeminiCSharpTests.csproj", "{6579CA94-FF9C-4ED1-93DF-FAF229BA2A85}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleGeminiIA", "ConsoleGeminiIA\ConsoleGeminiIA.csproj", "{AB3672FC-F1F4-4657-AC11-59A2F2BE9B06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6579CA94-FF9C-4ED1-93DF-FAF229BA2A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6579CA94-FF9C-4ED1-93DF-FAF229BA2A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6579CA94-FF9C-4ED1-93DF-FAF229BA2A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3672FC-F1F4-4657-AC11-59A2F2BE9B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3672FC-F1F4-4657-AC11-59A2F2BE9B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3672FC-F1F4-4657-AC11-59A2F2BE9B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3672FC-F1F4-4657-AC11-59A2F2BE9B06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
