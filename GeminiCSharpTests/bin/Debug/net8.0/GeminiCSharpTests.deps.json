@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "GeminiCSharpTests/1.0.0": {
         "dependencies": {
-          "GeminiCSharp": "1.0.0",
+          "GeminiCSharp": "1.0.2",
           "Microsoft.NET.Test.Sdk": "17.6.0",
           "Moq": "4.20.70",
           "NUnit": "3.13.3",
@@ -374,7 +374,7 @@
           }
         }
       },
-      "GeminiCSharp/1.0.0": {
+      "GeminiCSharp/1.0.2": {
         "dependencies": {
           "System.Text.Json": "8.0.1"
         },
@@ -516,7 +516,7 @@
       "path": "system.text.json/8.0.1",
       "hashPath": "system.text.json.8.0.1.nupkg.sha512"
     },
-    "GeminiCSharp/1.0.0": {
+    "GeminiCSharp/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
